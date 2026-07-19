@@ -109,3 +109,5 @@ Dockerfile.local*
 .swp
 
 !buildTools
+
+!.woodpecker
