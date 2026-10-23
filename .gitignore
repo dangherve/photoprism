@@ -115,3 +115,5 @@ scripts/dist/.env
 scripts/dist/.init-lock
 
 !buildTools
+
+!.woodpecker
